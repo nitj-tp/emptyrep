@@ -8,7 +8,7 @@ System.out.println("HELLO");
 System.out.println("HELLO john");
 System.out.println("HELLO mary");
 System.out.println("HELLO kim");
-  System.out.println("HELLO kimmnjkk");
+  System.out.println("HELLO kimk");
   
 
 
